@@ -1,9 +1,14 @@
 # Task4_FacesDetectionUsingPython
 Faces Detection Using Python and downloding opencv2 
 
+
+
 steps followed:
 
+
 1-download open cv2 in pycharm(picture in file below of downloding) 
+
+
 
 
 2-start write code and the code is the following:
@@ -37,7 +42,9 @@ cv2.imshow("Faces found", image)
 cv2.waitKey(0)
 
 
+
 done with code
+
 
 
 3- run the code and the faces are found and program point to them, all pictures results in the file bellow 
